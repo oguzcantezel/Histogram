@@ -34,3 +34,14 @@ The calculations below should be done respectively.
 -----------------------------------------------------------------------
 
 # Prerequisites
+
+- Python3
+- Numpy
+
+# Folder Structure
+
+| -- Histogram.py
+| -- LICENSE
+| -- README.md
+
+# Example 
