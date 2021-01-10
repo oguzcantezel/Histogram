@@ -41,7 +41,10 @@ The calculations below should be done respectively.
 # Folder Structure
 
 | -- Histogram.py
+
 | -- LICENSE
+
 | -- README.md
+
 
 # Example 
