@@ -49,9 +49,9 @@ The calculations below should be done respectively.
 
 # Example 
 
-Enter number to calculate derivative array:3
+Enter number to calculate derivative array : 3
 
-which number of array?:2
+
 
 --------------------- REPORT ---------------------
 --------------------------------------------------
@@ -133,10 +133,6 @@ Moment array first derivative =  [-2.04161616e-02  1.32504687e+00  2.60184883e+0
   
 --------------------------------------------------
 
-moment array  2 value = 2.3046307111519235
-
-n_th_order_difference(moment_array, n) 2 value = 2.3046307111519235
-
 Number of Derivative = 0
 
 Our Derivative = [1.00000000e+00 9.79583838e-01 2.30463071e+00 4.90647954e+00
@@ -177,9 +173,6 @@ Difference between 2 derivative  =  [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0
  
 **************************************************
 
-moment array  2 value = 2.3046307111519235
-
-n_th_order_difference(moment_array, n) 2 value = 2.601848830102888
 
 Number of Derivative = 1
 
@@ -212,10 +205,6 @@ Difference between 2 derivative  =  [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0
  0. 0. 0. 0. 0.]
  
 **************************************************
-
-moment array  2 value = 2.3046307111519235
-
-n_th_order_difference(moment_array, n) 2 value = 4.458832607310122
 
 Number of Derivative = 2
 
