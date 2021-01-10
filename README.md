@@ -6,29 +6,31 @@ Aim of histogram is an approximate representation of the distribution of numeric
 
 The calculations below should be done respectively.
 
--Probability Density Function (PDF) 
+- Probability Density Function (PDF) 
 
--Cumulative Distribution Function (CDF)
+- Cumulative Distribution Function (CDF)
 
--Estimated Mean Value
+- Estimated Mean Value
 
--Real Mean Value
+- Real Mean Value
 
--Error Mean Value
+- Error Mean Value 
 
--Estimated Variance
+- Estimated Variance
 
--Real Variance
+- Real Variance
 
--Error Mean Variance
+- Error Mean Variance
 
--Factorial
+- Factorial
 
--Moment Vector
+- Moment Vector
 
--Derivative of Moment Vector 
+- Derivative of Moment Vector 
 
--Taylor Series
+- Taylor Series
 
 
 -----------------------------------------------------------------------
+
+# Prerequisites
